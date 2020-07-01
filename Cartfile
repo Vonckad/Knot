@@ -1,0 +1,4 @@
+    
+gitHub "Alamofire/Alamofire" ~> 4.2
+gitHub "kaishin/Gifu" 
+gitHub "realm/realm-cocoa" 
